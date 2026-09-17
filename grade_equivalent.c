@@ -10,7 +10,7 @@ int main() {
 	printf("Enter your score: ");
 
 	//input: score
-	scanf("%d", &score);
+	scanf("%d\n", &score);
 
 	//process: assign the equivalent grade for the score
 	if (score >= 90) {
