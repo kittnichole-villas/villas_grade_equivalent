@@ -26,7 +26,7 @@ int main() {
 	}
 
 	//output: grade
-	printf("%c", grade);
+	printf("Grade = %c", grade);
 	
 	return 0;
 	
